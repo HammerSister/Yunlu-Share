@@ -1,0 +1,18 @@
+@media (max-width: 276px) {
+	.wenzi
+	{
+		display: none;
+	}
+}
+
+@media (max-width: 70px)
+{
+	.oor
+	{
+		display: none;
+	}
+	.forget
+	{
+		display: none;
+	}
+}
